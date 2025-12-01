@@ -1,14 +1,13 @@
-## Hi there 👋
-**Manyugao99/Manyugao99** is a ✨ _special_ ✨ 
+# Hi there 👋 I'm Manyugao
 
-Here are some ideas to get you started:
+### A Brief Self-Introduction
+- 🎂 Born in 2006 | ♍ Virgo - INFJ
+- 🎓 An overwhelmed but hanging in there college student
+- 🎹 Can play the piano & strum the guitar
+- ✨ Half-assed slacking off, yet never fully giving up; half-hearted lying low, but always keeping going
 
-This is Manyugao.
-A Brief Self-Introduction
-Born in 2006| Virgo ♍️ - INFJ | An Overwhelmed College Student
-Half-assed slacking off, yet not fully giving up; half-hearted lying low, but not completely checking out.
-🎹 The piano can be played.
-🎸 The guitar can be strummed.
-🛹 The skateboard can slide.
-🎨 The painting looks a bit like the subject.
-🏐🎿⛸️🏸 A lazy person who loves sports.
+> This is my little corner on GitHub — glad you stopped by!
+
+### 📊 GitHub Stats
+![Manyugao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manyugao99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyugao99&layout=compact&theme=tokyonight)
