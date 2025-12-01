@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Manyugao99/Manyugao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Manyugao99/Manyugao99** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
